@@ -1,0 +1,5 @@
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherTest.DataContracts\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherTest.DataContracts\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.pdb
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherTest.DataContracts\obj\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherTest.DataContracts\obj\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.pdb
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherTest.DataContracts\obj\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.csprojResolveAssemblyReference.cache

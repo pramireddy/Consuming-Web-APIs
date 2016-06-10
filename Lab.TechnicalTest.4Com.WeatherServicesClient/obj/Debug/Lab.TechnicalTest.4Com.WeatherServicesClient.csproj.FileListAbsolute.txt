@@ -1,0 +1,14 @@
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.dll.config
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.pdb
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.Utilities.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Newtonsoft.Json.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.DataContracts.pdb
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Lab.TechnicalTest.4Com.WeatherTest.Utilities.pdb
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\Newtonsoft.Json.xml
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\obj\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.csprojResolveAssemblyReference.cache
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\obj\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.dll
+D:\Work\4Com\Lab.TechnicalTest.4Com\Lab.TechnicalTest.4Com.WeatherServicesClient\obj\Debug\Lab.TechnicalTest.4Com.WeatherServicesClient.pdb

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-1.9.0.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/Site.css" rel="stylesheet" />
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/WeatherTest/App.js"></script>
+    <script src="Scripts/WeatherTest/weatherService.js"></script>
+</head>
+<body>
+    <div class="container " ng-app="weatherModule" ng-controller="weatherController">
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Weather forecast</h2>
+                <div>{{errorMessage}}</div>
+                <form role="form">
+                    <div class="form-group">
+                        <label for="location">Location:</label>
+                        <input type="text" class="form-control" ng-model="location" ng-change="clearvmweatherResult()">
+                    </div>
+                    <div class="form-group">
+                        <label for="temperatureunits"> Temperature units </label>
+                        <select class="form-control" ng-model="temperatureUnit" ng-change="clearvmweatherResult()">
+                            <option ng-repeat="temperatureUnit in temperatureUnits">{{temperatureUnit}}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="windspeed">Wind speed units:</label>
+                        <select class="form-control" ng-model="windSpeedUnit" ng-change="clearvmweatherResult()">
+                            <option ng-repeat="windSpeedUnit in windSpeedUnits">{{windSpeedUnit}}</option>
+                        </select>
+                    </div>
+                    <input type="search" class="btn btn-primary" value="search" ng-click="search()" />
+                </form>
+            </div>
+            <div class="col-md-4" ng-show="vmweatherResult">
+                {{message}}
+                <h2>WEATHER <i><b><span class="text-success">{{location}}</span></b></i> </h2>
+                <div>
+                    <h3>Temperature:<b><span class="text-success">{{vmweatherResult.Temperature}}{{ temperatureUnit | limitTo:1 | lowercase}}</span></b></h3>
+                    <h3>Wind Speed:<b><span class="text-success">{{vmweatherResult.WindSpeed}}{{ windSpeedUnit | lowercase }}</span></b></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
